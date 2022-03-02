@@ -1,5 +1,5 @@
 ---
-title: "Example Post -"
+title: "Window Shutters -"
 date: 2022-03-02
 ---
 
