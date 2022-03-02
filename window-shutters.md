@@ -5,15 +5,17 @@ layout: default
 
 # Window Shutters: Beauty meets tradition
 
-Did you know that window shutters have been decorative favorites for centuries? It’s true. The first window 
-shutters in human history allegedly date back to ancient Greece and Rome. However, it was during the Lafayette
-period of American architecture that window shutters took off as magnificent architectural enhancements. Since 
-then, window shutters have been installed on homes, buildings, and condominiums of all styles and sizes. In 
-Philadelphia and Baltimore, board-and-batten window shutters look cheery on city brick rowhomes. In the sunny 
-Southeast, plantation and louvered window shutters complement the stately mansions of Atlanta and Charleston. 
-In bohemian San Francisco and Pittsburgh’s hipster East End, natty louvered window shutters stand smart on 
-Victorian houses. In coastal cities across the world, window shutters offer protection from hurricanes, pounding 
-rains, and whipping winds. And they offer homeowners privacy, sound-dampening, and savings on their energy bills.
+Did you know that window shutters have been decorative favorites for centuries? It’s true.  
+The first window shutters in human history allegedly date back to ancient Greece and Rome.  
+However, it was during the Lafayette period of American architecture that window shutters  
+took off as magnificent architectural enhancements. Since then, window shutters have been  
+installed on homes, buildings, and condominiums of all styles and sizes. In Philadelphia  
+and Baltimore, board-and-batten window shutters look cheery on city brick rowhomes. In  
+the sunny Southeast, plantation and louvered window shutters complement the stately mansions  
+of Atlanta and Charleston. In bohemian San Francisco and Pittsburgh’s hipster East End,  
+natty louvered window shutters stand smart on Victorian houses. In coastal cities across the  
+world, window shutters offer protection from hurricanes, pounding rains, and whipping winds.  
+And they offer homeowners privacy, sound-dampening, and savings on their energy bills.  
 Indeed, window shutters are magnificent creations.  
 
 
