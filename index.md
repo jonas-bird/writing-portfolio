@@ -6,3 +6,6 @@
 ## Copy-writing 
 
 ### Estate Millworks 
+
+{% include window-shutters.md %}
+
