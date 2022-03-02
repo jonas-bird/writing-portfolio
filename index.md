@@ -5,7 +5,5 @@
   
 ## Copy-writing 
 
-### Estate Millworks 
-
-{% include window-shutters.md %}
+[Estate Millworks](window-shutters.md)
 
