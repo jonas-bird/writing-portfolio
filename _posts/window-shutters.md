@@ -1,10 +1,11 @@
 ---
 title: "Window Shutters -"
-date: 2022-03-02
+layout: default
 ---
 
 # Window Shutters: Beauty meets tradition
 
+test test test
 Did you know that window shutters have been decorative favorites for centuries? It’s true. The first window
 shutters in human history allegedly date back to ancient Greece and Rome. However, it was during the Lafayette
 period of American architecture that window shutters took off as magnificent architectural enhancements. Since
