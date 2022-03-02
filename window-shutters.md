@@ -1,6 +1,6 @@
 ---
 title: "Estate Milworks: Window Shutters -"
-date: 2022-03-02
+layout: default
 ---
 
 # Window Shutters: Beauty meets tradition
