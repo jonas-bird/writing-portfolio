@@ -13,7 +13,7 @@ Philadelphia and Baltimore, board-and-batten window shutters look cheery on city
 Southeast, plantation and louvered window shutters complement the stately mansions of Atlanta and Charleston. 
 In bohemian San Francisco and Pittsburgh’s hipster East End, natty louvered window shutters stand smart on 
 Victorian houses. In coastal cities across the world, window shutters offer protection from hurricanes, pounding 
-rains, and whipping winds. And they offer homeowners privacy, sound-dampening, and savings on their energy bills.  
+rains, and whipping winds. And they offer homeowners privacy, sound-dampening, and savings on their energy bills.
 Indeed, window shutters are magnificent creations.  
 
 ## Estate Millwork window shutters: We bring the value and beauty to you  
